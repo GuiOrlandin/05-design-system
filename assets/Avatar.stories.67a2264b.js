@@ -1,0 +1,2 @@
+import{A as t}from"./index.624eef0a.js";import"./index.243c20d4.js";import"./iframe.4599df37.js";import"./index.baf9d4f1.js";import"./jsx-runtime.50e9bbcf.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guiorlandin.png",alt:"Guilherme Orlandin"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.67a2264b.js.map
